@@ -1,4 +1,4 @@
-# Simple project to show Smart Constructor Usage with Scala
+# Minimal project to show Smart Constructor Pattern with Scala
 
 See a [thorough discussion of the Smart Constructor Pattern here](https://www.cakesolutions
 .net/teamblogs/enforcing-invariants-in-scala-datatypes)

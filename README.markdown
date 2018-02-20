@@ -1,7 +1,6 @@
 # Minimal project to show Smart Constructor Pattern with Scala
 
-See a [thorough discussion of the Smart Constructor Pattern here](https://www.cakesolutions
-.net/teamblogs/enforcing-invariants-in-scala-datatypes)
+See a [thorough discussion of the Smart Constructor Pattern here](https://www.cakesolutions.net/teamblogs/enforcing-invariants-in-scala-datatypes)
 
 This project uses two implementations for the [Smart Constructor pattern](https://wiki.haskell.org/Smart_constructors) in Scala.
 
